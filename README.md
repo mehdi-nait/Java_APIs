@@ -2,4 +2,4 @@
 
 Développé dans le cadre des TP Poo à l'ENSIM
 
-https://travis-ci.com/mehdi-nait/Java_APIs.svg?branch=master
+[![Build Status](https://travis-ci.com/mehdi-nait/Java_APIs.svg?branch=master)](https://travis-ci.com/mehdi-nait/Java_APIs)
